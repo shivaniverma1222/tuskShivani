@@ -4,3 +4,11 @@ Welcome !!
 
 
 Shivani
+a+b;
+a-b;
+a*b;
+a/b;
+
+
+Thanks
+
